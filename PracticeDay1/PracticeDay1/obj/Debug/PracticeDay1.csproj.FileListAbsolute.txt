@@ -1,0 +1,8 @@
+C:\DotNet Training\PracticeDay1\PracticeDay1\bin\Debug\PracticeDay1.exe.config
+C:\DotNet Training\PracticeDay1\PracticeDay1\bin\Debug\PracticeDay1.exe
+C:\DotNet Training\PracticeDay1\PracticeDay1\bin\Debug\PracticeDay1.pdb
+C:\DotNet Training\PracticeDay1\PracticeDay1\obj\Debug\PracticeDay1.csproj.AssemblyReference.cache
+C:\DotNet Training\PracticeDay1\PracticeDay1\obj\Debug\PracticeDay1.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\PracticeDay1\PracticeDay1\obj\Debug\PracticeDay1.csproj.CoreCompileInputs.cache
+C:\DotNet Training\PracticeDay1\PracticeDay1\obj\Debug\PracticeDay1.exe
+C:\DotNet Training\PracticeDay1\PracticeDay1\obj\Debug\PracticeDay1.pdb
